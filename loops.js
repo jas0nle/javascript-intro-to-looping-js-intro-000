@@ -17,5 +17,4 @@ function whileLoop(number) {
   if (number ===0) {
     
   }
-  }
 }
